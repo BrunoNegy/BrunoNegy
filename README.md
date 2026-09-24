@@ -44,7 +44,7 @@ https://github.com/BrunoNegy
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/TEU_PERFIL_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/bruno-da-silva-negy-8884132a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:brunonegy08@gmail.com">
