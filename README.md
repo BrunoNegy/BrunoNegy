@@ -2,7 +2,7 @@
 <!-- Título centralizado -->
 <h1>Página do Bruno <3</h1>
 <!-- Badge / Contador de visualizações -->
-<img src="https://komarev.com/ghpvc/?username=BrunoNegy&label=PROFILE+VIEWS&color=ffb6c1k&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=BrunoNegy&label=PROFILE+VIEWS&color=ffb6c1&style=flat" alt="Profile Views" />
 <br><br>
 <!-- Tabela transparente para alinhar a imagem à esquerda e o texto à direita -->
 <table>
