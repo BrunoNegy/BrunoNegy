@@ -28,9 +28,9 @@ https://github.com/BrunoNegy
 </table>
 <br>
 
-<!-- Gerador de Citações / Frase do Dia Estável -->
+<!-- Frase de Programação do Dia (Estável) -->
 <div>
-  <img src="https://readme-quotes-readme.vercel.app/api?type=horizontal&theme=rose_pine" alt="Frase do dia" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine" alt="Frase do dia" />
 </div>
 
 <br>
@@ -60,10 +60,10 @@ https://github.com/BrunoNegy
 
 <br><br>
 
-<!-- Cards de Estatísticas Atualizados -->
+<!-- Cards de Estatísticas Sem Rate Limit -->
 <div>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoNegy&show_icons=true&theme=rose_pine&hide_border=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrunoNegy&layout=compact&theme=rose_pine&hide_border=true" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=BrunoNegy&show_icons=true&theme=rose_pine&hide_border=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=BrunoNegy&layout=compact&theme=rose_pine&hide_border=true" alt="Linguagens mais usadas" height="150" />
 </div>
 
 <br><br>
