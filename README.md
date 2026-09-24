@@ -9,7 +9,7 @@
 <tr>
 <td width="50%" align="center">
 <!-- Substitua pelo link da sua imagem/GIF -->
-<img src="https://raw.githubusercontent.com/pipi-bear/pipi-bear/refs/heads/main/assets/profile_pic.jpg" width="100%" alt="Avatar/Art">
+<img src="https://i.pinimg.com/originals/17/c4/a4/17c4a4f21be8344c713b69f7ca26f11c.gif" width="100%" alt="Avatar/Art">
 </td>
 <td width="50%">
 <pre>
