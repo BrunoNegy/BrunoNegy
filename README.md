@@ -1,7 +1,10 @@
 <div align="center">
-<!-- Título centralizado -->
-<h1><!-- Exemplo com auréola/anjo vetorizado -->
-<h1><h1>Página do Bruno <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f607/512.gif alt="Auréola Animada" width="35" height="35" style="vertical-align: middle;"></h1>" alt="Auréola" width="35" height="35" style="vertical-align: middle;"></h1></h1>
+<!-- Título centralizado com Auréola Animada -->
+<h1>Página do Bruno <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f607/512.gif" alt="Auréola Animada" width="35" height="35" style="vertical-align: middle;"></h1>
+
+<!-- Badge / Contador de visualizações -->
+<img src="https://komarev.com/ghpvc/?username=BrunoNegy&label=PROFILE+VIEWS&color=ffb6c1&style=flat" alt="Profile Views" />
+<br><br>
 <!-- Badge / Contador de visualizações -->
 <img src="https://komarev.com/ghpvc/?username=BrunoNegy&label=PROFILE+VIEWS&color=ffb6c1&style=flat" alt="Profile Views" />
 <br><br>
