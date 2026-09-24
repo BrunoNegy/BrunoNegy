@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Título centralizado -->
-<h1>Página do Bruno <3</h1>
+<h1>Página do Bruno ✨</h1>
 <!-- Badge / Contador de visualizações -->
 <img src="https://komarev.com/ghpvc/?username=BrunoNegy&label=PROFILE+VIEWS&color=ffb6c1&style=flat" alt="Profile Views" />
 <br><br>
