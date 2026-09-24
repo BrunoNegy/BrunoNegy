@@ -60,7 +60,7 @@ https://github.com/BrunoNegy
 
 <br><br>
 
-<!-- Cards de Estatísticas Estáveis (GitHub Readme Activity & Compact Stats) -->
+<!-- Cards de Estatísticas Estáveis -->
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoNegy&theme=rose-pine&hide_border=true" alt="Gráfico de Atividades" width="90%" />
 </div>
