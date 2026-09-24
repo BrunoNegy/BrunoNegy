@@ -13,20 +13,18 @@
 </td>
 <td width="50%">
 <pre>
-pipi-bear@github
+https://github.com/BrunoNegy
 ----------------
-🏠 NTU CSIE
-🎓 Chinese Literature in undergrad...
-💻 Working on Compiler optimization
-🛠️ Languages: C, C++, Python
+🏠 Ferraz de Vasconcelos - São Paulo
+🎓 Português, Inglês. (Trabalhando em futuros idiomas)...
+💻 Engenharia de Software
+🛠️ Conhecimentos: Python, Java, CSS, Html, Flutterflow, Dart, Banco de Dados, aprendendo inteligência artificial...
 🎨 Keen on crafting neat, beautiful LaTeX
-🏃 Marathon / hiking / cycling
-🎵 Check my great musical taste below
 </pre>
 </td>
 </tr>
 </table>
 <br>
 <!-- Secção inferior/Widgets -->
-<h3>HW REPOS AT NTU</h3>
+<h3>CUP1DS ARR0W</h3>
 </div>
