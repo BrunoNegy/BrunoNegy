@@ -9,7 +9,7 @@
 <tr>
 <td width="50%" align="center">
 <!-- Substitua pelo link da sua imagem/GIF -->
-<img src="https://br.pinterest.com/pin/667306869830732895/" width="100%" alt="Avatar/Art">
+<img src="https://i.pinimg.com/736x/09/d0/66/09d066f1155764c4760fed964bcf2d4a.jpg" width="100%" alt="Avatar/Art">
 </td>
 <td width="50%">
 <pre>
