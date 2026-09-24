@@ -4,11 +4,12 @@
 <!-- Badge / Contador de visualizações -->
 <img src="https://komarev.com/ghpvc/?username=BrunoNegy&label=PROFILE+VIEWS&color=ffb6c1&style=flat" alt="Profile Views" />
 <br><br>
+
 <!-- Tabela transparente para alinhar a imagem à esquerda e o texto à direita -->
 <table>
 <tr>
 <td width="50%" align="center">
-<!-- Substitua pelo link da sua imagem/GIF -->
+<!-- Imagem/GIF -->
 <img src="https://i.pinimg.com/736x/98/7e/ad/987ead9659da4608216ad4c36d9122e4.jpg" width="100%" alt="Avatar/Art">
 </td>
 <td width="50%">
@@ -27,6 +28,13 @@ https://github.com/BrunoNegy
 </table>
 <br>
 
+<!-- Gerador de Frases Dinâmico (Quotes) -->
+<div>
+  <img src="https://github-readme-quotes-returns.vercel.app/api?theme=rose_pine" alt="Frase do dia" />
+</div>
+
+<br>
+
 <!-- Bloco de Ícones das Tecnologias -->
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -39,15 +47,37 @@ https://github.com/BrunoNegy
 </div>
 
 <br>
-<!-- Secção inferior/Widgets -->
-<h3>CUP1DS ARR0W</h3>
-</div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bruno-da-silva-negy-8884132a6/" target="_blank">
+<!-- Links de Contato -->
+<div>
+  <a href="https://www.linkedin.com/in/TEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:brunonegy08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</div>
+
+<br><br>
+
+<!-- Cards de Estatísticas -->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoNegy&show_icons=true&theme=rose_pine&hide_border=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNegy&layout=compact&theme=rose_pine&hide_border=true" alt="Linguagens mais usadas" height="150" />
+</div>
+
+<br><br>
+
+<!-- Snake Game (Contribuições) -->
+<h2>🐍 Minhas Contribuições</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoNegy/BrunoNegy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunoNegy/BrunoNegy/output/github-contribution-grid-snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/BrunoNegy/BrunoNegy/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>
+
+<!-- Secção inferior/Widgets -->
+<h3>CUP1DS ARR0W</h3>
 </div>
