@@ -18,7 +18,8 @@ https://github.com/BrunoNegy
 🏠 Ferraz de Vasconcelos - São Paulo
 🎓 Português, Inglês. (Trabalhando em futuros idiomas)...
 💻 Engenharia de Software
-🛠️ Conhecimentos: Python, Java, CSS, Html, Flutterflow, Dart, Banco de Dados, aprendendo inteligência artificial...
+🛠️ Conhecimentos: Python, Java, CSS, Html, Flutterflow, Dart, 
+  Banco de Dados, aprendendo inteligência artificial...
 🎨 Keen on crafting neat, beautiful LaTeX
 </pre>
 </td>
