@@ -60,10 +60,14 @@ https://github.com/BrunoNegy
 
 <br><br>
 
-<!-- Cards de Estatísticas Estáveis (Sem Erro 404/Not Found) -->
+<!-- Cards de Estatísticas Estáveis (GitHub Readme Activity & Compact Stats) -->
 <div>
-  <img src="https://github-readme-stats.panader.es/api?username=BrunoNegy&show_icons=true&theme=rose_pine&hide_border=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.panader.es/api/top-langs/?username=BrunoNegy&layout=compact&theme=rose_pine&hide_border=true" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoNegy&theme=rose-pine&hide_border=true" alt="Gráfico de Atividades" width="90%" />
+</div>
+<br>
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoNegy&theme=rose_pine" alt="Detalhes do Perfil" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=BrunoNegy&theme=rose_pine" alt="Linguagens Mais Usadas" height="150" />
 </div>
 
 <br><br>
