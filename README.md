@@ -60,10 +60,10 @@ https://github.com/BrunoNegy
 
 <br><br>
 
-<!-- Cards de Estatísticas Sem Rate Limit -->
+<!-- [NOVO CORRIGIDO] Estatísticas e Linguagens Mais Usadas -->
 <div>
-  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=BrunoNegy&show_icons=true&theme=rose_pine&hide_border=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=BrunoNegy&layout=compact&theme=rose_pine&hide_border=true" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats-anurag-hazra-sigma-five.vercel.app/api?username=BrunoNegy&show_icons=true&hide_title=true&hide_border=true&theme=rose_pine&style=flat-square" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-anurag-hazra-sigma-five.vercel.app/api/top-langs/?username=BrunoNegy&layout=compact&hide_title=true&hide_border=true&theme=rose_pine&style=flat-square" alt="Linguagens mais usadas" />
 </div>
 
 <br><br>
