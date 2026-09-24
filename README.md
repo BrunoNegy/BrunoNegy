@@ -1,6 +1,7 @@
 <div align="center">
 <!-- Título centralizado -->
-<h1>Página do Bruno ✨</h1>
+<h1><!-- Exemplo com auréola/anjo vetorizado -->
+<h1>Página do Bruno <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" alt="Auréola" width="35" height="35" style="vertical-align: middle;"></h1></h1>
 <!-- Badge / Contador de visualizações -->
 <img src="https://komarev.com/ghpvc/?username=BrunoNegy&label=PROFILE+VIEWS&color=ffb6c1&style=flat" alt="Profile Views" />
 <br><br>
