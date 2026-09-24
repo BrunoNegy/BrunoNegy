@@ -60,15 +60,7 @@ https://github.com/BrunoNegy
 
 <br><br>
 
-<!-- Cards de Estatísticas Estáveis -->
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoNegy&theme=rose-pine&hide_border=true" alt="Gráfico de Atividades" width="90%" />
-</div>
-<br>
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoNegy&theme=rose_pine" alt="Detalhes do Perfil" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=BrunoNegy&theme=rose_pine" alt="Linguagens Mais Usadas" height="150" />
-</div>
+
 
 <br><br>
 
