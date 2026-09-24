@@ -42,3 +42,12 @@ https://github.com/BrunoNegy
 <!-- Secção inferior/Widgets -->
 <h3>CUP1DS ARR0W</h3>
 </div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/TEU_PERFIL_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:brunonegy08@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
